@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidarioG</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="senha">Senha</string>
+</resources>
