@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298418775674",
+    "project_id": "projeto-controle-de-vacinados",
+    "storage_bucket": "projeto-controle-de-vacinados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298418775674:android:51ca323a845a8f657ffdc3",
+        "android_client_info": {
+          "package_name": "com.example.covidariog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298418775674-34a2t682grl43sk48b6pn90otqu09iub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmm2kVUD2wl5HuV253CdSFZeGTff2eYVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298418775674-34a2t682grl43sk48b6pn90otqu09iub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

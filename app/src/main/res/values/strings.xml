@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">CovidarioG</string>
+    <string name="app_name">Controle de Vacinados</string>
     <string name="entrar">ENTRAR</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="deslogar">DESLOGAR</string>
     <string name="senha">Senha</string>
+    <string name="text_cadastro">Se cadastre clicando AQUI</string>
+    <string name="text_cadastrese">Cadastre-se</string>
 </resources>
